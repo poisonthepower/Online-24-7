@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Nothing",
     "scripts": {
-        "build": "node app.js",
+        "build": "npm i eris",
         "start": "node app.js"
     },
     "repository": {
