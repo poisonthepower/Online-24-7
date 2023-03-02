@@ -1,7 +1,7 @@
 {
 3    "name": "Online-24-7",
 4    "version": "1.0.0",
-5    "description": "",
+5    "description": "Nothing",
 6    "scripts": {
 7        "build": "node app.js",
 9        "start": "node app.js"
@@ -10,7 +10,7 @@
 12        "type": "git",
 13        "url": "git+https://github.com/poisonthepower/Online-24-7.git"
 14    },
-15    "author": "",
+15    "author": "Sadik",
 16    "license": "ISC",
 17    "bugs": {
 18        "url": "https://github.com/poisonthepower/Online-24-7/issues"
